@@ -38,13 +38,13 @@ My process was to do the HTML first, then the CSS.
 
 - Semantic HTML5 markup
 - CSS custom properties
-- CSS Grid
+- CSS Flex
 
 
 ### What I learned
 
 Some of what I learned:
-- using grid or flexbox to create a responsive display.
+- using flexbox to create a responsive display.
 - using CSS Lint to validate my CSS and clean it up
 - using the W3 HTML validator to check my HTML and clean it up -- I had a minor typo
 prevented my CSS stylesheet link from working. Checking my HTML helped me fix it, and
@@ -65,6 +65,6 @@ then it was much easier to work on refining my solution.
 
 ## Acknowledgments
 
-Thank you to Frontend Mentor and everyone who completed this solution and gave feedback to others. I read through many comments, and they were very helpful. Looking forward to participating in more Frontend Mentor challenges. 
+Thank you to Frontend Mentor and everyone who completed this solution and gave feedback to others. I read through many comments, and they were very helpful. Looking forward to participating in more Frontend Mentor challenges. I'm especially thankful to byKrissK, whose CSS flex code was simple and clear. I had trouble with padding, margins, and width  details of my responsive layout, and her code helped me figure it out.
 
 Thank you to Dr. Angela Yu who teaches The Complete 2023 Web Development Bootcamp course on Udemy. I am taking that course now and found Frontend Mentor through it.
