@@ -26,6 +26,7 @@ h1 {
 /* Classes */
 .container {
     display: grid;
+    grid-template-columns: 1fr;
     max-width: 100%;
     background-color: #ffffff;
     background-color: hsl(0, 0%, 100%);
