@@ -65,6 +65,6 @@ then it was much easier to work on refining my solution.
 
 ## Acknowledgments
 
-Thank you to Frontend Mentor and everyone who completed this solution and gave feedback to others. I read through many comments, and they were very helpful. Looking forward to participating in more Frontend Mentor challenges. I'm especially thankful to byKrissK, whose CSS flex code was simple and clear. I had trouble with padding, margins, and width  details of my responsive layout, and her code helped me figure it out.
+Thank you to Frontend Mentor and everyone who completed this solution and gave feedback to others. I read through many comments, and they were very helpful. Looking forward to participating in more Frontend Mentor challenges. I'm especially thankful to byKrissK, whose CSS flex code was simple and clear. I had trouble with padding, margins, and width  details of my responsive layout, and her code helped me figure it out. Thank you to Dennis at Frontend Mentor who gave me helpful feedback on using display properties rather than margins to avoid potential display problems with changing browser widths.
 
 Thank you to Dr. Angela Yu who teaches The Complete 2023 Web Development Bootcamp course on Udemy. I am taking that course now and found Frontend Mentor through it.
